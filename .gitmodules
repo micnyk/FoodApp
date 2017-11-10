@@ -1,0 +1,3 @@
+[submodule "FoodApp.Web"]
+	path = FoodApp.Web
+	url = https://github.com/micnyk/FoodApp.Web.git
